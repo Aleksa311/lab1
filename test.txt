@@ -1,0 +1,2 @@
+/home/aleksa/.bash_history
+2000
